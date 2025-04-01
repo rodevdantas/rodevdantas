@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e por resolver problemas por meio da programação
 
 ### 🚀 **Tecnologias**
 
-![Tecnologias](https://skillicons.dev/icons?i=js,html,css,c,cpp,mysql,python,nodejs,vscode)
+![Tecnologias](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,nodejs,mysql,git,vscode)
 
 ---
 
