@@ -6,7 +6,7 @@ Sou estudante de Sistemas de Informação e sou apaixonado por tecnologia e por 
 
 ---
 
-### 🚀 **Tecnologias**
+### 💻 **Tecnologias**
 
 ![Tecnologias](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,nodejs,mysql,git,vscode)
 
