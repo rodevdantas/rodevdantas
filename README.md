@@ -1,6 +1,6 @@
 # Bem-vindo! 👋 
 
-Meu nome é **Rodrigo Dantas**
+### Meu nome é **Rodrigo Dantas**
 
 Sou estudante de Sistemas de Informação e sou apaixonado por tecnologia e por resolver problemas por meio da programação. Tenho domínio de **HTML, CSS e Python**, além de conhecimento em **C, C++, JavaScript e SQL**. Estou sempre em busca de novos desafios e projetos para realizar. Meu **GitHub** é o meu **portfólio** e você pode explorar meus projetos por aqui! Sinta-se à vontade para conferir meu trabalho, deixar feedbacks ou até mesmo trocar ideias.
 
