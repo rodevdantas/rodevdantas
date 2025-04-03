@@ -1,8 +1,8 @@
-# Bem-vindo! 👋 Meu nome é **Rodrigo Dantas**
+# Bem-vindo! 👋 
 
-💻 **Desenvolvedor Front-End | Análise de Dados | Programação**
+Meu nome é **Rodrigo Dantas**
 
-Sou apaixonado por tecnologia e por resolver problemas por meio da programação. Tenho domínio de **HTML, CSS e Python**, além de conhecimento em **C, C++, JavaScript e SQL**. Atualmente, curso Sistemas de Informação e venho me especializando em Desenvolvimento Web e Análise de Dados/Machine Learning, sempre buscando criar soluções e insights eficientes. Tenho experiência prática na construção de interfaces interativas, no desenvolvimento de aplicações responsivas e na automação de processos com Python.
+Sou estudante de Sistemas de Informação e sou apaixonado por tecnologia e por resolver problemas por meio da programação. Tenho domínio de **HTML, CSS e Python**, além de conhecimento em **C, C++, JavaScript e SQL**. Estou sempre em busca de novos desafios e projetos para realizar. Meu **GitHub** é o meu **portfólio** e você pode explorar meus projetos por aqui! Sinta-se à vontade para conferir meu trabalho, deixar feedbacks ou até mesmo trocar ideias.
 
 ---
 
