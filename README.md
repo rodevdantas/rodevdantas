@@ -5,7 +5,7 @@
 ### About me
 
 I’m an Information Systems student with a strong foundation in Full Stack Development and growing expertise in Data Analysis. I enjoy building efficient, user-friendly solutions and extracting meaningful insights from data. My main goal is to apply technology to solve real-world problems and continuously improve my technical skills.
-I’m proficient in HTML, CSS, and Python, and have hands-on experience with JavaScript, C, C++, SQL, and tools like Git and MySQL. I’m currently deepening my skills in front-end and back-end development, while also expanding my knowledge in data analysis using Python libraries such as Pandas and NumPy.
+I’m proficient in HTML, CSS, and Python, and have hands-on experience with JavaScript, C, C++, SQL, and tools like Git and MySQL. I’m currently deepening my skills in front-end and back-end development, while also expanding my knowledge in data analysis using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib and others.
 This GitHub is my development portfolio. Feel free to explore my projects, share feedback, or connect to exchange ideas!
 
 ### 💻 **Technologies**
