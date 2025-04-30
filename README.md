@@ -6,7 +6,7 @@
 
 ### Summary
 
-I am an Information Systems student with a focus on Data Analysis and Full Stack Development. You will find data analysis and manipulation projects with Python, front-end development with HTML, CSS, JavaScript, and (in development) complete full stack systems.
+I am an Information Systems student with a focus on Data Analysis and Full Stack Development. You will find data analysis and manipulation projects with Python, front-end development with HTML, CSS, JavaScript, and complete full stack systems.
 
 ---
 
