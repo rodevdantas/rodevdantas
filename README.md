@@ -19,11 +19,12 @@ I am an Information Systems student with a focus on Data Analysis and Full Stack
 ### **Education & Certifications**
 
 - 🎓 Information Systems – Estácio (2024–2028)  
-- Data Analysis with Python – University of Sao Paulo (USP) (Mar/25-Sep/25)  
-- Front-End Development – DevMedia (Oct/24–Apr/25)
-- Master Power BI - Udemy (Nov/24-Jan/25)   
-- English – Advanced – Cultura Inglesa (2014–2018)  
-- Spanish – Intermediate – Instituto Cervantes (2016–2018)
+- Data Analysis with Python – University of Sao Paulo (USP)
+- Database - DevMedia
+- Front-End Development – DevMedia
+- Master Power BI - Udemy    
+- English – Advanced – Cultura Inglesa 
+- Spanish – Intermediate – Cervantes 
 
 ---
 
