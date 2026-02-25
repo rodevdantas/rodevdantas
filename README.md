@@ -6,7 +6,7 @@
 
 ### Summary
 
-I'm an Information Systems student with a focus on Data Analysis and Full Stack Development. Hands-on experience with data analysis projects using Python and web development. Strong foundation in programming logic, OOP, probability and statistics, Python, SQL, Power BI, HTML, CSS, JavaScript, with basic knowledge in C, C++, Node.js, Excel, and Git.
+I'm an Information Systems student with a focus on Data Analysis. Hands-on experience with data analysis projects using Python and web development. Strong foundation in programming logic, OOP, probability and statistics, Python, SQL, Power BI, HTML, CSS, JavaScript, with basic knowledge in C, C++, Node.js, Excel, and Git.
 
 ---
 
