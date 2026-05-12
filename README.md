@@ -6,7 +6,12 @@
 
 ### Summary
 
-I'm an People Analytics intern and Information Systems student. Hands-on experience with data analysis projects using Python and web development. Strong foundation in programming logic, OOP, probability and statistics, Python, SQL, Power BI, HTML, CSS with basic knowledge in JavaScript, C, C++, Node.js, Excel, and Git.
+I'm a People Analytics Intern and Information Systems student focused on transforming data into strategic insights that support decision-making. I work with HR analytics, data modeling, dashboard development, ETL processes, and business intelligence solutions, combining analytical thinking with a strong business-oriented approach.
+
+I have hands-on experience with Python, SQL, Power BI, Excel, Google Sheets, and BI tools for data extraction, transformation, automation, and visualization. I've also developed projects involving Machine Learning, analytical pipelines, cloud solutions with Google Cloud Platform (GCP) and BigQuery, as well as dynamic integrations with Google Sheets.
+
+My technical background includes programming logic, Object-Oriented Programming (OOP), probability and statistics, data analysis, and web development fundamentals using HTML, CSS, JavaScript, Node.js, C, C++, and Git. I'm passionate about using technology and data to solve problems, optimize processes, and generate actionable business insights.
+
 
 ---
 
