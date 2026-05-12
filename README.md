@@ -6,7 +6,7 @@
 
 ### Summary
 
-I'm an Information Systems student with a focus on Data Analysis. Hands-on experience with data analysis projects using Python and web development. Strong foundation in programming logic, OOP, probability and statistics, Python, SQL, Power BI, HTML, CSS, JavaScript, with basic knowledge in C, C++, Node.js, Excel, and Git.
+I'm an People Analytics intern and Information Systems student. Hands-on experience with data analysis projects using Python and web development. Strong foundation in programming logic, OOP, probability and statistics, Python, SQL, Power BI, HTML, CSS with basic knowledge in JavaScript, C, C++, Node.js, Excel, and Git.
 
 ---
 
@@ -18,7 +18,8 @@ I'm an Information Systems student with a focus on Data Analysis. Hands-on exper
 
 ### **Education & Certifications**
 
-- 🎓 Information Systems – Estácio (2024–2028)  
+- Information Systems – Estácio (2024–2028)
+- People Analytics and Rewards Intern - Wilson Sons (2025-now)
 - Data Analysis with Python – University of Sao Paulo (USP)
 - Database - DevMedia
 - Front-End Development – DevMedia
